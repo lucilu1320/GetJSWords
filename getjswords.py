@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# by m4ll0k - github.com/lucilu1320 
+# by tbw_lucilu - github.com/lucilu1320 
 # (@tbw_lucilu)
 
 import requests 
