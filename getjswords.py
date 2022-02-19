@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
-# by m4ll0k - github.com/m4ll0k 
-# (@m4ll0k2)
+# by m4ll0k - github.com/lucilu1320 
+# (@tbw_lucilu)
 
 import requests 
 from jsbeautifier import beautify
@@ -280,7 +280,7 @@ def usage():
     print('Usage:')
     print('\tpython3 %s https://example.com/javascripts/main.js'%name)
     print('\tcat my_js_files.txt | python3 %s'%name)
-    print('\n\tby @m4ll0k - github.com/m4ll0k')
+    print('\n\tby @tbw_lucilu - github.com/lucilu1320')
     sys.exit(0)
 
 stdin=False
